@@ -15,7 +15,7 @@ Installs essential tools, security firewall, and a simple Ruby web server for te
 📥 Installation
 Run this on your VPS:
 Bash
-curl -O https://raw.githubusercontent.com/pormes-90/vps-auto-setup/main/install.sh && bash install.sh
+curl -O https://raw.githubusercontent.com/pormes-90/vps-auto-setup/main/install.sh && bash run.sh
 
 ▶️ Run Server
 
@@ -37,8 +37,8 @@ HTTP
 HTTPS
 8080
 Test Server
-🧠 Project Structure
 
+🧠 Project Structure
 /opt/vps-lab/
  └── server.rb   # Simple test server
  
